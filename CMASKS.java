@@ -1,5 +1,8 @@
 /* package codechef; // don't place package name! */
 
+// https://www.codechef.com/problems/CMASKS
+// Question Link^^^
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
