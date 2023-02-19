@@ -1,5 +1,9 @@
 /* package codechef; // don't place package name! */
 
+// https://www.codechef.com/problems/SCALENE?tab=statement
+// Question Link ^^^^
+
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
